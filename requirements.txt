@@ -1,0 +1,8 @@
+langchain-google-genai 
+pillow
+python-dotenv
+streamlit
+replicate
+langchain
+PyPDF2
+streamlit-authenticator
